@@ -5,6 +5,10 @@ let rec print_list = function
 let rec last list= 
   if List.length list==1 then print_list(list) else last (List.tl list);; 
 
+let rec lasttwo list= 
+  if List.length list==2 then print_list(list) else lasttwo (List.tl list);; 
+
 let liste = [1;2;3;4;5;6];;
 (*let liste2 = 2::liste;;*)
 last liste;;
+lasttwo liste 
