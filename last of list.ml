@@ -7,4 +7,4 @@ let rec last list=
 
 let liste = [1;2;3;4;5;6];;
 (*let liste2 = 2::liste;;*)
-last liste
+last liste;;
