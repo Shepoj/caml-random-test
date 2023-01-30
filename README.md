@@ -1,5 +1,5 @@
 # caml-random-test
-le prof de si/info veut que je change de lycee pcq je suis trop fort 
+je suis tres puissant
  
  
  a faire : nieme element dune liste 
